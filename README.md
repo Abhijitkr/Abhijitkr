@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitkr&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitkr" /> </p>
 
-- 🌱 I’m currently learning **Angular Framework**
+- 🌱 I’m currently focusing on **DSA**
 
 - 📫 Reach me out at **abhijitkr600@gmail.com**
 
