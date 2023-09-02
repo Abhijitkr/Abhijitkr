@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitkr&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitkr" /> </p>
 
-- 🌱 I’m currently focusing on **DSA**
+- 🌱 I’m currently focusing on **JavaScript**
+
+- 💻 Here is my **[Codepen](https://codepen.io/abhijit-kumar-mahato-the-vuer)**
 
 - 📫 Reach me out at **abhijitkr600@gmail.com**
 
