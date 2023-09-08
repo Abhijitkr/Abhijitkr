@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitkr&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitkr" /> </p>
 
-- 🌱 I’m currently focusing on **JavaScript**
+- 🌱 I’m currently focusing on **React**
 
 - 💻 Here is my **[Codepen](https://codepen.io/abhijit-kumar-mahato-the-vuer)**
 
