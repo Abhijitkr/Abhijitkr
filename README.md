@@ -11,7 +11,7 @@
 
 **Skills**: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ([Quantum Bazaar](https://github.com/Abhijitkr/QuantumBazaar))
+<!-- - 🔭 I’m currently working on ([Quantum Bazaar](https://github.com/Abhijitkr/QuantumBazaar)) -->
 - 🌱 I’m currently learning **MERN** Stack / **DSA** Coding
 - 📫 How to reach me: abhijitkr600@gmail.com
 
