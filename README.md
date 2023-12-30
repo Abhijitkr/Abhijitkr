@@ -13,7 +13,7 @@
 
 <!-- - 🔭 I’m currently working on ([Quantum Bazaar](https://github.com/Abhijitkr/QuantumBazaar)) -->
 - 🌱 I’m currently learning **MERN** Stack / **DSA** Coding
-- 📫 How to reach me: abhijitkr600@gmail.com
+- 📫 How to reach me: dev.abhijitkrma@gmail.com
 
 <!-- - 💻 Here is my **[Codepen](https://codepen.io/abhijit-kumar-mahato-the-vuer)** -->
 
