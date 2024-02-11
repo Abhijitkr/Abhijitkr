@@ -32,20 +32,21 @@
 ### Languages and Tools:
 
 <p> 
-<a href="https://en.wikipedia.org/wiki/C++" target="_blank"> <img src="https://reach-robotics.github.io/reach_robotics_sdk/_images/ISO_C++_Logo.png" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/C++" target="_blank"> <img src="https://reach-robotics.github.io/reach_robotics_sdk/_images/ISO_C++_Logo.png" alt="C++" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2022/10/bootstrap-logo-freelogovectors.net_.png?lossy=1&w=2560&ssl=1" alt="Bootstrap" width="50" height="40"/> </a> 
 <!-- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> -->
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank"> <img src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" alt="xd" width="45" height="40"/> </a> 
-<a href="https://redux.js.org/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.glH-dtdIeiiwdgNRWzAJZAHaHD?pid=ImgDet&rs=1" alt="xd" width="45" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.scottbrady91.com/img/logos/tailwind.png" alt="xd" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/en" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="xd" width="70" height="40"/> </a> 
-<a href="https://www.npmjs.com/package/express" target="_blank"> <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="xd" width="115" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png" alt="xd" width="55" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank"> <img src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" alt="React.js" width="45" height="40"/> </a> 
+<a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="Redux" width="45" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="Tailwind CSS" width="55" height="40"/> </a> 
+  <a href="https://chakra-ui.com/" target="_blank"> <img src="https://osawards.com/react/pic/chakra.png" alt="Chakra UI" width="40" height="40"/> </a> 
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="Node.js" width="70" height="40"/> </a> 
+<a href="https://www.npmjs.com/package/express" target="_blank"> <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express" width="115" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png" alt="MongoDB" width="55" height="40"/> </a> 
 </p>
 
 ### Trophies:
