@@ -45,7 +45,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="Tailwind CSS" width="55" height="40"/> </a>
       <a href="https://chakra-ui.com/" target="_blank"> <img src="https://osawards.com/react/pic/chakra.png" alt="Chakra UI" width="40" height="40"/> </a>
     <a href="https://nodejs.org/en" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="Node.js" width="70" height="40"/> </a>
-    <a href="https://www.npmjs.com/package/express" target="_blank"> <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express" width="115" height="40"/> </a>
+    <a href="https://www.npmjs.com/package/express" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" alt="Express" width="80" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png" alt="MongoDB" width="55" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.3meUfKh0rU912ziwHwYahAHaHa?rs=1&pid=ImgDetMain" alt="MongoDB" width="40" height="40"/> </a>
 </div>
